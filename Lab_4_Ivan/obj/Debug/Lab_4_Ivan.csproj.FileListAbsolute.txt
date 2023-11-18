@@ -1,0 +1,8 @@
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\bin\Debug\Lab_4_Ivan.exe.config
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\bin\Debug\Lab_4_Ivan.exe
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\bin\Debug\Lab_4_Ivan.pdb
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\obj\Debug\Lab_4_Ivan.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\obj\Debug\Lab_4_Ivan.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\obj\Debug\Lab_4_Ivan.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\obj\Debug\Lab_4_Ivan.exe
+C:\Users\goss_rivero\source\repos\TDD_Ivan\Lab_4_Ivan\obj\Debug\Lab_4_Ivan.pdb
